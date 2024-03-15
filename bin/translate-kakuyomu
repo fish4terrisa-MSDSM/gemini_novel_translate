@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+cd /usr/src/gn
+./get_kakuyomu.py $1 && ./auto_translate_gemini.py $1 1
