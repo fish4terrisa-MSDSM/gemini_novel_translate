@@ -17,6 +17,10 @@
 ## Store location
 `./novel/{novel_id}.cn/`
 
+## Credits
+This project utilizes source code of the following projects:
+ - [G-TTYg/gemin_novel_translate](https://github.com/G-TTYg/gemin_novel_translate)
+
 ## LICENSE
 
 Released under the MIT license
